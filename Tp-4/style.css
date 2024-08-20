@@ -1,0 +1,57 @@
+body{
+    background: linear-gradient(25deg, rgb(193, 216, 248), rgb(216, 237, 255));
+}
+
+.formulario{
+    display: flex;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    margin-left: 750px;
+    justify-content: left;
+    font-size: 30px;
+}
+
+#boton{
+    font-size: 25px;
+}
+
+.podio{
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.p1{
+    background-color: rgb(223, 255, 106);
+    border: rgba(236, 203, 39, 0.546) 2px solid;
+    border-radius: 10%;
+    padding: 1%;
+    width: 300px;
+    height: 230px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 730px;
+    margin-bottom: 30px;
+}
+
+.p2{
+    background-color: rgb(212, 214, 214);
+    border: rgba(150, 149, 149, 0.434) 2px solid;
+    border-radius: 10%;
+    font-size: 20px;
+    padding: 1%;
+    width: 300px;
+    height: 230px;
+    margin-left: 360px;
+}
+
+.p3{
+    background-color: rgb(199, 136, 41);
+    border: rgba(120, 77, 12, 0.475) 2px solid;
+    border-radius: 10%;
+    font-size: 20px;
+    padding: 1%;
+    width: 300px;
+    height: 230px;
+    margin-left: 400px;
+    margin-top: 10px;
+}
